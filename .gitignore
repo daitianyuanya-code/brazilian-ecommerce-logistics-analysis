@@ -1,5 +1,6 @@
 # Raw Kaggle datasets
-data/raw/
+data/raw/*
+!data/raw/.gitkeep
 *.zip
 
 # Kaggle credentials
